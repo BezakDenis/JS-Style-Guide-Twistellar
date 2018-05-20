@@ -1,6 +1,7 @@
 # JavaScript style guide for Twistellar
 
 *Forked from airbnb*
+*Source --> https://github.com/airbnb/javascript*
 
 ## Table of Contents
 
